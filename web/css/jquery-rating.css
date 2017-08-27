@@ -1,0 +1,91 @@
+.jr-ratenode{
+	
+}
+
+.jr-rating{
+   float:left;
+   width: 24px;
+   height: 24px;
+   display: inline-block;
+   background: url(../images/v2-ranting-detail-l-hover.png) top left no-repeat;
+   margin-right: 5px;
+}
+/*.jr-rating:before{
+   border-bottom: 8px solid #f2b100;
+   border-left: 3px solid transparent;
+   border-right: 3px solid transparent;
+   position: absolute;
+   height: 0px;
+   width: 0px;
+   top: -4.5px;
+   left: -6.5px;
+   display: block;
+   content: '';
+   -webkit-transform: rotate(-35deg);
+   -moz-transform:    rotate(-35deg);
+   -ms-transform:     rotate(-35deg);
+   -o-transform:      rotate(-35deg);
+}
+.jr-rating:after{
+	 position: absolute;
+   display: block;
+   color: red;
+   top: 0.3px;
+   left: -10.5px;
+   width: 0px;
+   height: 0px;
+   border-right: 10px solid transparent;
+   border-bottom: 7px solid #f2b100;
+   border-left: 10px solid transparent;
+   -webkit-transform: rotate(-70deg);
+   -moz-transform:    rotate(-70deg);
+   -ms-transform:     rotate(-70deg);
+   -o-transform:      rotate(-70deg);
+   content: '';
+}*/
+
+.jr-nomal {
+   width: 24px;
+   float: left;
+   height: 24px;
+   display: inline-block;
+   background: url(../images/v2-ranting-detail-l.png) top left no-repeat;
+   margin-right: 5px;
+}
+/*.jr-nomal:before {
+   border-bottom: 8px solid #282828;
+   border-left: 3px solid transparent;
+   border-right: 3px solid transparent;
+   position: absolute;
+   height: 0px;
+   width: 0px;
+   top: -4.5px;
+   left: -6.5px;
+   display: block;
+   content: '';
+   -webkit-transform: rotate(-35deg);
+   -moz-transform:    rotate(-35deg);
+   -ms-transform:     rotate(-35deg);
+   -o-transform:      rotate(-35deg);
+    
+}
+.jr-nomal:after {
+   position: absolute;
+   display: block;
+   color: red;
+   top: 0.3px;
+   left: -10.5px;
+   width: 0px;
+   height: 0px;
+   border-right: 10px solid transparent;
+   border-bottom: 7px solid #282828;
+   border-left: 10px solid transparent;
+   -webkit-transform: rotate(-70deg);
+   -moz-transform:    rotate(-70deg);
+   -ms-transform:     rotate(-70deg);
+   -o-transform:      rotate(-70deg);
+   content: '';
+}
+*/
+
+
